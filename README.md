@@ -51,7 +51,7 @@ public class MyApplication extends Application {
 
 ---
 
-### Load script and call function `getBlogList()`  
+### Load script and call function `getBlogList`  
 
 Note: make sure to call callFunction method in UI thread. 
 
